@@ -34,6 +34,7 @@ st.title("HS Code Transfiguration Tool - Расхлопушка версии 1.0
 st.markdown("""
 <div style="background-color:#f0f2f6; padding:10px; border-radius:5px;">
     <p style="font-size:14px; color:#333; text-align:center;">
+        Всего кодов на 6-ти знаках - 7059 шт.
         По отзывам работы программы и предложениям по её улучшению обращаться к Алексею Хаирову.
     </p>
 </div>
