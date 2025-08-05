@@ -41,9 +41,9 @@ st.markdown(f"""
 <div style="background-color:#f0f2f6; padding:10px; border-radius:5px;">
     <p style="font-size:14px; color:#333; text-align:center;">
         Всего уникальных кодов:<br>
-        6-значных: {len(hs6_series)} шт.<br>
-        8-значных: {len(hs8_series)} шт.<br>
-        10-значных: {len(hs10_series)} шт.<br>
+        6-значных: 7183 шт.<br>
+        8-значных: 17118 шт.<br>
+        10-значных: 24339 шт.<br>
         По отзывам работы программы и предложениям по её улучшению обращаться к Алексею Хаирову.
     </p>
 </div>
